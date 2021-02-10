@@ -5,7 +5,7 @@ module.exports = {
   siteShortTitle: "mitote tech", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "A portfolio page for Mitote Tech, with a classy yet expressive design.",
-  siteUrl: "https://benjaminw.dev",
+  siteUrl: "https://mllc.tech",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "MLLC", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
@@ -47,12 +47,11 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/benjaminweinberger",
     },
     {
       name: "Github",
-      url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+      url: "https://github.com/BWeineff",
     },
     {
       name: "Twitch",
